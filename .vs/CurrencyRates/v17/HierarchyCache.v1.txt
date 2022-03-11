@@ -1,0 +1,294 @@
+﻿++Solution 'CurrencyRates' ‎(6 of 6 projects)
+i:{00000000-0000-0000-0000-000000000000}:CurrencyRates.sln
+++Api
+i:{00000000-0000-0000-0000-000000000000}:Api
+++Connected Services 
+i:{4fc6a13e-39ae-4651-bd5a-e2625780a21b}:>701
+++Dependencies
+i:{4fc6a13e-39ae-4651-bd5a-e2625780a21b}:>700
+i:{c18c317a-f853-4778-ac2f-dc1a60767604}:>794
+i:{404eb958-e216-44a4-b3b4-190f532bb089}:>418
+i:{498ab897-8408-4a6c-8bde-e4d18a44404e}:>469
+i:{7a38aea6-43cb-4fc5-87c0-c270646714a4}:>566
+i:{7bc58bae-b3b8-45d5-b4d4-1a5f8298d123}:>306
+++Analyzers
+i:{4fc6a13e-39ae-4651-bd5a-e2625780a21b}:analyzers
+i:{c18c317a-f853-4778-ac2f-dc1a60767604}:analyzers
+i:{404eb958-e216-44a4-b3b4-190f532bb089}:analyzers
+i:{498ab897-8408-4a6c-8bde-e4d18a44404e}:analyzers
+i:{7a38aea6-43cb-4fc5-87c0-c270646714a4}:analyzers
+i:{7bc58bae-b3b8-45d5-b4d4-1a5f8298d123}:analyzers
+++Frameworks
+i:{4fc6a13e-39ae-4651-bd5a-e2625780a21b}:frameworks
+i:{c18c317a-f853-4778-ac2f-dc1a60767604}:frameworks
+i:{404eb958-e216-44a4-b3b4-190f532bb089}:frameworks
+i:{498ab897-8408-4a6c-8bde-e4d18a44404e}:frameworks
+i:{7a38aea6-43cb-4fc5-87c0-c270646714a4}:frameworks
+i:{7bc58bae-b3b8-45d5-b4d4-1a5f8298d123}:frameworks
+++Packages
+i:{4fc6a13e-39ae-4651-bd5a-e2625780a21b}:packages
+i:{c18c317a-f853-4778-ac2f-dc1a60767604}:packages
+i:{404eb958-e216-44a4-b3b4-190f532bb089}:packages
+i:{498ab897-8408-4a6c-8bde-e4d18a44404e}:packages
+i:{7a38aea6-43cb-4fc5-87c0-c270646714a4}:packages
+i:{7bc58bae-b3b8-45d5-b4d4-1a5f8298d123}:packages
+++Projects
+i:{4fc6a13e-39ae-4651-bd5a-e2625780a21b}:projects
+i:{404eb958-e216-44a4-b3b4-190f532bb089}:projects
+i:{498ab897-8408-4a6c-8bde-e4d18a44404e}:projects
+i:{7bc58bae-b3b8-45d5-b4d4-1a5f8298d123}:projects
+i:{c18c317a-f853-4778-ac2f-dc1a60767604}:projects
+++Properties
+i:{4fc6a13e-39ae-4651-bd5a-e2625780a21b}:c:\users\ilyas\source\repos\currencyrates\api\properties\
+++Controllers
+i:{4fc6a13e-39ae-4651-bd5a-e2625780a21b}:c:\users\ilyas\source\repos\currencyrates\api\controllers\
+++AuthController.cs
+i:{4fc6a13e-39ae-4651-bd5a-e2625780a21b}:c:\users\ilyas\source\repos\currencyrates\api\controllers\authcontroller.cs
+++BaseController.cs
+i:{4fc6a13e-39ae-4651-bd5a-e2625780a21b}:c:\users\ilyas\source\repos\currencyrates\api\controllers\basecontroller.cs
+++CurrenycRatesController.cs
+i:{4fc6a13e-39ae-4651-bd5a-e2625780a21b}:c:\users\ilyas\source\repos\currencyrates\api\controllers\currenycratescontroller.cs
+++UserController.cs
+i:{4fc6a13e-39ae-4651-bd5a-e2625780a21b}:c:\users\ilyas\source\repos\currencyrates\api\controllers\usercontroller.cs
+++Validations
+i:{4fc6a13e-39ae-4651-bd5a-e2625780a21b}:c:\users\ilyas\source\repos\currencyrates\api\validations\
+++appsettings.json
+i:{4fc6a13e-39ae-4651-bd5a-e2625780a21b}:c:\users\ilyas\source\repos\currencyrates\api\appsettings.json
+++Program.cs
+i:{4fc6a13e-39ae-4651-bd5a-e2625780a21b}:c:\users\ilyas\source\repos\currencyrates\api\program.cs
+++No service dependencies discovered
+i:{4fc6a13e-39ae-4651-bd5a-e2625780a21b}:>702
+++Microsoft.AspNetCore.Analyzers
+i:{4fc6a13e-39ae-4651-bd5a-e2625780a21b}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{4fc6a13e-39ae-4651-bd5a-e2625780a21b}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{404eb958-e216-44a4-b3b4-190f532bb089}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{498ab897-8408-4a6c-8bde-e4d18a44404e}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{7a38aea6-43cb-4fc5-87c0-c270646714a4}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{7bc58bae-b3b8-45d5-b4d4-1a5f8298d123}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{c18c317a-f853-4778-ac2f-dc1a60767604}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{4fc6a13e-39ae-4651-bd5a-e2625780a21b}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{404eb958-e216-44a4-b3b4-190f532bb089}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{498ab897-8408-4a6c-8bde-e4d18a44404e}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{7a38aea6-43cb-4fc5-87c0-c270646714a4}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{7bc58bae-b3b8-45d5-b4d4-1a5f8298d123}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{c18c317a-f853-4778-ac2f-dc1a60767604}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{4fc6a13e-39ae-4651-bd5a-e2625780a21b}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{4fc6a13e-39ae-4651-bd5a-e2625780a21b}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{4fc6a13e-39ae-4651-bd5a-e2625780a21b}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{4fc6a13e-39ae-4651-bd5a-e2625780a21b}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{c18c317a-f853-4778-ac2f-dc1a60767604}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{404eb958-e216-44a4-b3b4-190f532bb089}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{498ab897-8408-4a6c-8bde-e4d18a44404e}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{7a38aea6-43cb-4fc5-87c0-c270646714a4}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{7bc58bae-b3b8-45d5-b4d4-1a5f8298d123}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{4fc6a13e-39ae-4651-bd5a-e2625780a21b}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{c18c317a-f853-4778-ac2f-dc1a60767604}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{404eb958-e216-44a4-b3b4-190f532bb089}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{498ab897-8408-4a6c-8bde-e4d18a44404e}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{7a38aea6-43cb-4fc5-87c0-c270646714a4}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{7bc58bae-b3b8-45d5-b4d4-1a5f8298d123}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{4fc6a13e-39ae-4651-bd5a-e2625780a21b}:c:\users\ilyas\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{404eb958-e216-44a4-b3b4-190f532bb089}:c:\users\ilyas\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{498ab897-8408-4a6c-8bde-e4d18a44404e}:c:\users\ilyas\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{7bc58bae-b3b8-45d5-b4d4-1a5f8298d123}:c:\users\ilyas\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{c18c317a-f853-4778-ac2f-dc1a60767604}:c:\users\ilyas\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{4fc6a13e-39ae-4651-bd5a-e2625780a21b}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{404eb958-e216-44a4-b3b4-190f532bb089}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{498ab897-8408-4a6c-8bde-e4d18a44404e}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{7a38aea6-43cb-4fc5-87c0-c270646714a4}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{7bc58bae-b3b8-45d5-b4d4-1a5f8298d123}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{c18c317a-f853-4778-ac2f-dc1a60767604}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{4fc6a13e-39ae-4651-bd5a-e2625780a21b}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{4fc6a13e-39ae-4651-bd5a-e2625780a21b}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{c18c317a-f853-4778-ac2f-dc1a60767604}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{404eb958-e216-44a4-b3b4-190f532bb089}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{498ab897-8408-4a6c-8bde-e4d18a44404e}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{7a38aea6-43cb-4fc5-87c0-c270646714a4}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{7bc58bae-b3b8-45d5-b4d4-1a5f8298d123}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{4fc6a13e-39ae-4651-bd5a-e2625780a21b}:c:\users\ilyas\source\repos\currencyrates\api\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{4fc6a13e-39ae-4651-bd5a-e2625780a21b}:c:\users\ilyas\source\repos\currencyrates\api\microsoft.netcore.app
+i:{c18c317a-f853-4778-ac2f-dc1a60767604}:c:\users\ilyas\source\repos\currencyrates\test\microsoft.netcore.app
+i:{404eb958-e216-44a4-b3b4-190f532bb089}:c:\users\ilyas\source\repos\currencyrates\core\microsoft.netcore.app
+i:{498ab897-8408-4a6c-8bde-e4d18a44404e}:c:\users\ilyas\source\repos\currencyrates\service\microsoft.netcore.app
+i:{7a38aea6-43cb-4fc5-87c0-c270646714a4}:c:\users\ilyas\source\repos\currencyrates\shared\microsoft.netcore.app
+i:{7bc58bae-b3b8-45d5-b4d4-1a5f8298d123}:c:\users\ilyas\source\repos\currencyrates\data\microsoft.netcore.app
+++FluentValidation.AspNetCore (10.3.6)
+i:{4fc6a13e-39ae-4651-bd5a-e2625780a21b}:>715
+++Microsoft.AspNetCore.Authentication.JwtBearer (6.0.2)
+i:{4fc6a13e-39ae-4651-bd5a-e2625780a21b}:>716
+i:{7a38aea6-43cb-4fc5-87c0-c270646714a4}:>785
+++Microsoft.EntityFrameworkCore.Design (6.0.2)
+i:{4fc6a13e-39ae-4651-bd5a-e2625780a21b}:>713
+++Swashbuckle.AspNetCore (6.2.3)
+i:{4fc6a13e-39ae-4651-bd5a-e2625780a21b}:>714
+++Service
+i:{4fc6a13e-39ae-4651-bd5a-e2625780a21b}:c:\users\ilyas\source\repos\currencyrates\service\service.csproj
+i:{00000000-0000-0000-0000-000000000000}:Service
+i:{c18c317a-f853-4778-ac2f-dc1a60767604}:c:\users\ilyas\source\repos\currencyrates\service\service.csproj
+++Shared
+i:{4fc6a13e-39ae-4651-bd5a-e2625780a21b}:c:\users\ilyas\source\repos\currencyrates\shared\shared.csproj
+i:{404eb958-e216-44a4-b3b4-190f532bb089}:c:\users\ilyas\source\repos\currencyrates\shared\bin\debug\net6.0\shared.dll
+i:{00000000-0000-0000-0000-000000000000}:Shared
+++launchSettings.json
+i:{4fc6a13e-39ae-4651-bd5a-e2625780a21b}:c:\users\ilyas\source\repos\currencyrates\api\properties\launchsettings.json
+++CreateUserValidator.cs
+i:{4fc6a13e-39ae-4651-bd5a-e2625780a21b}:c:\users\ilyas\source\repos\currencyrates\api\validations\createuservalidator.cs
+++Test
+i:{00000000-0000-0000-0000-000000000000}:Test
+++UnitTest.cs
+i:{c18c317a-f853-4778-ac2f-dc1a60767604}:c:\users\ilyas\source\repos\currencyrates\test\unittest.cs
+++xunit.analyzers
+i:{c18c317a-f853-4778-ac2f-dc1a60767604}:c:\users\ilyas\.nuget\packages\xunit.analyzers\0.10.0\analyzers\dotnet\cs\xunit.analyzers.dll
+++coverlet.collector (3.1.0)
+i:{c18c317a-f853-4778-ac2f-dc1a60767604}:>804
+++Microsoft.NET.Test.Sdk (16.11.0)
+i:{c18c317a-f853-4778-ac2f-dc1a60767604}:>801
+++xunit (2.4.1)
+i:{c18c317a-f853-4778-ac2f-dc1a60767604}:>802
+++xunit.runner.visualstudio (2.4.3)
+i:{c18c317a-f853-4778-ac2f-dc1a60767604}:>803
+++Core
+i:{00000000-0000-0000-0000-000000000000}:Core
+i:{7bc58bae-b3b8-45d5-b4d4-1a5f8298d123}:c:\users\ilyas\source\repos\currencyrates\core\bin\debug\net6.0\core.dll
+++Models
+i:{404eb958-e216-44a4-b3b4-190f532bb089}:c:\users\ilyas\source\repos\currencyrates\core\models\
+i:{7a38aea6-43cb-4fc5-87c0-c270646714a4}:c:\users\ilyas\source\repos\currencyrates\shared\models\
+++Business
+i:{404eb958-e216-44a4-b3b4-190f532bb089}:c:\users\ilyas\source\repos\currencyrates\core\models\business\
+i:{7a38aea6-43cb-4fc5-87c0-c270646714a4}:c:\users\ilyas\source\repos\currencyrates\shared\models\business\
+++Dto
+i:{404eb958-e216-44a4-b3b4-190f532bb089}:c:\users\ilyas\source\repos\currencyrates\core\models\dto\
+i:{7a38aea6-43cb-4fc5-87c0-c270646714a4}:c:\users\ilyas\source\repos\currencyrates\shared\models\dto\
+++CreateUser.cs
+i:{404eb958-e216-44a4-b3b4-190f532bb089}:c:\users\ilyas\source\repos\currencyrates\core\models\dto\createuser.cs
+++CurrencyRatesDto.cs
+i:{404eb958-e216-44a4-b3b4-190f532bb089}:c:\users\ilyas\source\repos\currencyrates\core\models\dto\currencyratesdto.cs
+++SignIn.cs
+i:{404eb958-e216-44a4-b3b4-190f532bb089}:c:\users\ilyas\source\repos\currencyrates\core\models\dto\signin.cs
+++Token.cs
+i:{404eb958-e216-44a4-b3b4-190f532bb089}:c:\users\ilyas\source\repos\currencyrates\core\models\dto\token.cs
+++User.cs
+i:{404eb958-e216-44a4-b3b4-190f532bb089}:c:\users\ilyas\source\repos\currencyrates\core\models\dto\user.cs
+++Entities
+i:{404eb958-e216-44a4-b3b4-190f532bb089}:c:\users\ilyas\source\repos\currencyrates\core\models\entities\
+++Repositories
+i:{404eb958-e216-44a4-b3b4-190f532bb089}:c:\users\ilyas\source\repos\currencyrates\core\repositories\
+i:{7bc58bae-b3b8-45d5-b4d4-1a5f8298d123}:c:\users\ilyas\source\repos\currencyrates\data\repositories\
+++Services
+i:{404eb958-e216-44a4-b3b4-190f532bb089}:c:\users\ilyas\source\repos\currencyrates\core\services\
+i:{498ab897-8408-4a6c-8bde-e4d18a44404e}:c:\users\ilyas\source\repos\currencyrates\service\services\
+i:{7a38aea6-43cb-4fc5-87c0-c270646714a4}:c:\users\ilyas\source\repos\currencyrates\shared\services\
+++IAuthenticationService.cs
+i:{404eb958-e216-44a4-b3b4-190f532bb089}:c:\users\ilyas\source\repos\currencyrates\core\services\iauthenticationservice.cs
+++ICurrencyRatesService.cs
+i:{404eb958-e216-44a4-b3b4-190f532bb089}:c:\users\ilyas\source\repos\currencyrates\core\services\icurrencyratesservice.cs
+++ITokenService.cs
+i:{404eb958-e216-44a4-b3b4-190f532bb089}:c:\users\ilyas\source\repos\currencyrates\core\services\itokenservice.cs
+++IUnitOfWork.cs
+i:{404eb958-e216-44a4-b3b4-190f532bb089}:c:\users\ilyas\source\repos\currencyrates\core\services\iunitofwork.cs
+++IUserService.cs
+i:{404eb958-e216-44a4-b3b4-190f532bb089}:c:\users\ilyas\source\repos\currencyrates\core\services\iuserservice.cs
+++TCMBCurrencyRate.cs
+i:{404eb958-e216-44a4-b3b4-190f532bb089}:c:\users\ilyas\source\repos\currencyrates\core\models\business\tcmbcurrencyrate.cs
+++AppUser.cs
+i:{404eb958-e216-44a4-b3b4-190f532bb089}:c:\users\ilyas\source\repos\currencyrates\core\models\entities\appuser.cs
+++CurrencyRate.cs
+i:{404eb958-e216-44a4-b3b4-190f532bb089}:c:\users\ilyas\source\repos\currencyrates\core\models\entities\currencyrate.cs
+++UserRefreshToken.cs
+i:{404eb958-e216-44a4-b3b4-190f532bb089}:c:\users\ilyas\source\repos\currencyrates\core\models\entities\userrefreshtoken.cs
+++ICurrencyRateRepository.cs
+i:{404eb958-e216-44a4-b3b4-190f532bb089}:c:\users\ilyas\source\repos\currencyrates\core\repositories\icurrencyraterepository.cs
+++IGenericRepository.cs
+i:{404eb958-e216-44a4-b3b4-190f532bb089}:c:\users\ilyas\source\repos\currencyrates\core\repositories\igenericrepository.cs
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (6.0.2)
+i:{404eb958-e216-44a4-b3b4-190f532bb089}:>746
+++HostedServices
+i:{498ab897-8408-4a6c-8bde-e4d18a44404e}:c:\users\ilyas\source\repos\currencyrates\service\hostedservices\
+++TransferDailyCurrencyRates.cs
+i:{498ab897-8408-4a6c-8bde-e4d18a44404e}:c:\users\ilyas\source\repos\currencyrates\service\hostedservices\transferdailycurrencyrates.cs
+++AuthenticationService.cs
+i:{498ab897-8408-4a6c-8bde-e4d18a44404e}:c:\users\ilyas\source\repos\currencyrates\service\services\authenticationservice.cs
+++CurrencyRatesService.cs
+i:{498ab897-8408-4a6c-8bde-e4d18a44404e}:c:\users\ilyas\source\repos\currencyrates\service\services\currencyratesservice.cs
+++TokenService.cs
+i:{498ab897-8408-4a6c-8bde-e4d18a44404e}:c:\users\ilyas\source\repos\currencyrates\service\services\tokenservice.cs
+++UserService.cs
+i:{498ab897-8408-4a6c-8bde-e4d18a44404e}:c:\users\ilyas\source\repos\currencyrates\service\services\userservice.cs
+++DtoMapper.cs
+i:{498ab897-8408-4a6c-8bde-e4d18a44404e}:c:\users\ilyas\source\repos\currencyrates\service\dtomapper.cs
+++ObjectMapper.cs
+i:{498ab897-8408-4a6c-8bde-e4d18a44404e}:c:\users\ilyas\source\repos\currencyrates\service\objectmapper.cs
+++AutoMapper (11.0.1)
+i:{498ab897-8408-4a6c-8bde-e4d18a44404e}:>775
+++Data
+i:{498ab897-8408-4a6c-8bde-e4d18a44404e}:c:\users\ilyas\source\repos\currencyrates\data\bin\debug\net6.0\data.dll
+i:{00000000-0000-0000-0000-000000000000}:Data
+++Exceptions
+i:{7a38aea6-43cb-4fc5-87c0-c270646714a4}:c:\users\ilyas\source\repos\currencyrates\shared\exceptions\
+++Extensions
+i:{7a38aea6-43cb-4fc5-87c0-c270646714a4}:c:\users\ilyas\source\repos\currencyrates\shared\extensions\
+++CustomExceptionHandler.cs
+i:{7a38aea6-43cb-4fc5-87c0-c270646714a4}:c:\users\ilyas\source\repos\currencyrates\shared\extensions\customexceptionhandler.cs
+++IdentityExtension.cs
+i:{7a38aea6-43cb-4fc5-87c0-c270646714a4}:c:\users\ilyas\source\repos\currencyrates\shared\extensions\identityextension.cs
+++ValidationResponseExtension.cs
+i:{7a38aea6-43cb-4fc5-87c0-c270646714a4}:c:\users\ilyas\source\repos\currencyrates\shared\extensions\validationresponseextension.cs
+++Error.cs
+i:{7a38aea6-43cb-4fc5-87c0-c270646714a4}:c:\users\ilyas\source\repos\currencyrates\shared\models\dto\error.cs
+++Response.cs
+i:{7a38aea6-43cb-4fc5-87c0-c270646714a4}:c:\users\ilyas\source\repos\currencyrates\shared\models\dto\response.cs
+++CustomException.cs
+i:{7a38aea6-43cb-4fc5-87c0-c270646714a4}:c:\users\ilyas\source\repos\currencyrates\shared\exceptions\customexception.cs
+++TokenOption.cs
+i:{7a38aea6-43cb-4fc5-87c0-c270646714a4}:c:\users\ilyas\source\repos\currencyrates\shared\models\business\tokenoption.cs
+++SignInService.cs
+i:{7a38aea6-43cb-4fc5-87c0-c270646714a4}:c:\users\ilyas\source\repos\currencyrates\shared\services\signinservice.cs
+++Configuration
+i:{7bc58bae-b3b8-45d5-b4d4-1a5f8298d123}:c:\users\ilyas\source\repos\currencyrates\data\configuration\
+++Migrations
+i:{7bc58bae-b3b8-45d5-b4d4-1a5f8298d123}:c:\users\ilyas\source\repos\currencyrates\data\migrations\
+++AppDbContext.cs
+i:{7bc58bae-b3b8-45d5-b4d4-1a5f8298d123}:c:\users\ilyas\source\repos\currencyrates\data\appdbcontext.cs
+++UnitOfWork.cs
+i:{7bc58bae-b3b8-45d5-b4d4-1a5f8298d123}:c:\users\ilyas\source\repos\currencyrates\data\unitofwork.cs
+++AppUserConfiguration.cs
+i:{7bc58bae-b3b8-45d5-b4d4-1a5f8298d123}:c:\users\ilyas\source\repos\currencyrates\data\configuration\appuserconfiguration.cs
+++CurrencyRateConfiguration.cs
+i:{7bc58bae-b3b8-45d5-b4d4-1a5f8298d123}:c:\users\ilyas\source\repos\currencyrates\data\configuration\currencyrateconfiguration.cs
+++UserRefreshTokenConfiguration.cs
+i:{7bc58bae-b3b8-45d5-b4d4-1a5f8298d123}:c:\users\ilyas\source\repos\currencyrates\data\configuration\userrefreshtokenconfiguration.cs
+++20220310230424_Initial.cs
+i:{7bc58bae-b3b8-45d5-b4d4-1a5f8298d123}:c:\users\ilyas\source\repos\currencyrates\data\migrations\20220310230424_initial.cs
+++AppDbContextModelSnapshot.cs
+i:{7bc58bae-b3b8-45d5-b4d4-1a5f8298d123}:c:\users\ilyas\source\repos\currencyrates\data\migrations\appdbcontextmodelsnapshot.cs
+++GenericRepository.cs
+i:{7bc58bae-b3b8-45d5-b4d4-1a5f8298d123}:c:\users\ilyas\source\repos\currencyrates\data\repositories\genericrepository.cs
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.2)
+i:{7bc58bae-b3b8-45d5-b4d4-1a5f8298d123}:>739
+++Microsoft.EntityFrameworkCore.Tools (6.0.2)
+i:{7bc58bae-b3b8-45d5-b4d4-1a5f8298d123}:>740
+++20220310230424_Initial.Designer.cs
+i:{7bc58bae-b3b8-45d5-b4d4-1a5f8298d123}:c:\users\ilyas\source\repos\currencyrates\data\migrations\20220310230424_initial.designer.cs
+++Microsoft.AspNetCore.Mvc.Testing (6.0.3)
+++Microsoft.AspNetCore.TestHost (6.0.3)
+++CurrencyRateRepository.cs
+i:{7bc58bae-b3b8-45d5-b4d4-1a5f8298d123}:c:\users\ilyas\source\repos\currencyrates\data\repositories\currencyraterepository.cs
+++NewFolder
+++Common
+i:{404eb958-e216-44a4-b3b4-190f532bb089}:c:\users\ilyas\source\repos\currencyrates\core\common\
+++Class1.cs
+++TCMB.cs
+i:{404eb958-e216-44a4-b3b4-190f532bb089}:c:\users\ilyas\source\repos\currencyrates\core\common\tcmb.cs
